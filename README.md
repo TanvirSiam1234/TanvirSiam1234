@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a computer science student at BMCC with a strong passion for software development, machine learning, and creating robust, high-performing applications.
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/tanvir-siam-0b2852269) 
 
 # 💻 Tech Stack:
